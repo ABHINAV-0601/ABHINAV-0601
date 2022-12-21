@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things, coding and sports
 - 🌱 I’m currently learning FULL STACK SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
-- 📫 How to reach me -> Reach me through this mail -> pandeyabhinav2608@gmail.com
+- 📫 Reach me through this mail -> pandeyabhinav2608@gmail.com
 
 <!---
 ABHINAV-0601/ABHINAV-0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
