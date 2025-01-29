@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABHINAV-0601
+- 👋 Hi, I’m Abhinav Pandey
 - 👀 I’m interested in learning new things, coding and sports
 - 🌱 I’m currently learning FULL STACK SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
